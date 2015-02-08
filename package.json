@@ -1,0 +1,8 @@
+{
+  "author": "Adam Cook",
+  "name": "hash-set",
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "jasmine": "^2.2.1"
+  }
+}
