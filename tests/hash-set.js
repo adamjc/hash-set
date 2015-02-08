@@ -1,6 +1,6 @@
 var chai = require('chai');
 var should = chai.should();
-var HashSet = require('../hash-set');
+var HashSet = require('../src/hash-set');
 
 describe('hash-set', function () {
     var hashSet;

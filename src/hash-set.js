@@ -42,7 +42,7 @@ var HashSet = (function () {
          */
         this.addAll = function(items, keyId) {
             for (var i = 0; i < items.length; i++) {
-                var isAdded = this.add(items[i], keyId);
+                this.add(items[i], keyId);
             }
         };
 
